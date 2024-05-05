@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Specification-Title: tntworld
+Specification-Vendor: Aiden
+Specification-Version: 1
+Implementation-Title: tntworld
+Implementation-Version: 0.0.1
+Implementation-Vendor: Aiden
+Implementation-Timestamp: 2024-05-05T18:39:05+0800
+
